@@ -1,0 +1,9 @@
+cb@Sanduiche@6.00@100@1001
+hb@Sanduiche@5.00@78@1002
+Double@Sanduiche@8.00@25@1003
+Refri Lata@Drink@4.50@29@1004
+Sundae C@Desert@5.00@9@1005
+Fritas P@Side Item@3.50@25@1006
+Boladao@Sanduiche@12.00@2@1007
+Frita G@Side Item@7.50@99@1008
+Shake C@Desert@6.00@94@1009

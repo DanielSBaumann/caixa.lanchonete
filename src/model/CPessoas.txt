@@ -1,0 +1,2 @@
+LOGIN:admin SENHA:admin @adm@admin#1001
+LOGIN:daniel SENHA:daniel @Usuário@daniel#1002

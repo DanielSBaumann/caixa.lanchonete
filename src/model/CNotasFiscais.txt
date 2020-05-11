@@ -1,0 +1,17 @@
+Data : 08/05/2020 Operador : admin NF : 1001
+
+
+                Burguer House
+
+
+nº    produto                        qtd    preço     total
+
+1     Shake C                          1     6,00      6,00
+2     Double                           5     8,00     40,00
+
+
+
+Subtotal : 46,00
+Pago : 46.00	Forma de pagamento : Crédito
+Troco : 0,00
+*******************************
